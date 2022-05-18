@@ -8,5 +8,6 @@
 
 *Ниже я прикреплю скриншоты кода, что бы вы лучше понимали как он работает*
 
-![image](https://user-images.githubusercontent.com/104721684/168048941-0b30d7eb-3f93-4ffd-b807-12ef5d6270f1.png)
+![image](https://user-images.githubusercontent.com/104721684/169061231-602b8d08-3276-433c-b74c-278a4f3922cd.png)
+
 
